@@ -1,8 +1,10 @@
 import java.util.*;//했는데 잘 모르겠음,,,ㅜㅜㅜㅜㅜㅜ
 
 public class Study_calcul {
-
+	
 	public static void main(String[] args) {
+		
+		System.out.println("깃저장");
 		Cal5 c = new Cal5();
 		
 		Scanner sc = new Scanner(System.in);
@@ -48,5 +50,6 @@ class Cal5{
 		
 		
 		return result;
+		
 	}
 }
